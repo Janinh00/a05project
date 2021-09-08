@@ -391,7 +391,7 @@ a {
 }
 @media (max-width: 1045px) {
   .wrapper .box{
-    width: calc(50% - 10px);
+    width: calc(100% - 10px);
     margin: 10px 0;
   }
 }
@@ -540,7 +540,7 @@ li {
 
 @media (max-width: 1045px) {
   .wrapper .box{
-    width: calc(50% - 10px);
+    width: calc(100% - 10px);
     margin: 10px 0;
   }
 }
