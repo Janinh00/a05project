@@ -55,7 +55,6 @@ header{
     color:#31CFBC;
     transition: all 0.1s;
     font-family: 'Noto Sans', sans-serif;
-    font-weight: bold;
     cursor: default;
   }
   
@@ -139,7 +138,7 @@ a {
     z-index: 1;
 }
 .top-wrapper h1 {
-    font-size: 40px;
+    font-size: 30px;
     letter-spacing: 8px;
     font-family: 'gloss', sans-serif;
     margin-top: 20px;
